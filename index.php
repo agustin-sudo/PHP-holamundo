@@ -2,4 +2,5 @@
 echo "<h1> ¡Hola mundo desde PHP en Azure!</h1>";
 echo "<p> Desplegado automaticamente desde GitHub </p>";
 phpinfo();
+
 ?>
